@@ -1,5 +1,6 @@
 
-<h1 align="center" style="font-weight: bold;">git-donkey 🐴</h1>
+
+<h1 align="center" style="font-weight: bold;"><img width="118" height="113" alt="image" align="center" src="https://github.com/user-attachments/assets/df98dcef-7a7a-4d4c-a27d-0aed08b12fcc" /> </br> git-donkey  </h1>
 
 
 <p align="center">A Donkey Don to help you manage your local git branches/repositories.</p>
